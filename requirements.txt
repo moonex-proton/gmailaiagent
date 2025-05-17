@@ -4,3 +4,4 @@ google-auth-oauthlib
 google-cloud-storage
 google-cloud-aiplatform
 beautifulsoup4
+gunicorn
